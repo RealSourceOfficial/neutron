@@ -9,14 +9,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arlojay-studios/neutron.git"
+    "url": "git+https://github.com/RealSourceOfficial/neutron.git"
   },
   "author": "Arlojay Studios",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arlojay-studios/neutron/issues"
+    "url": "https://github.com/RealSourceOfficial/neutron/issues"
   },
-  "homepage": "https://github.com/arlojay-studios/neutron#readme",
+  "homepage": "https://github.com/RealSourceOfficial/neutron#readme",
   "dependencies": {
     "@arlojay-studios/electron-atomic": "^0.0.9",
     "@arlojay-studios/proton-atomic": "^0.0.8",
