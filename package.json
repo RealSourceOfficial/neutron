@@ -1,8 +1,5 @@
 {
-  "name": "@arlojay-studios/neutron-atomic",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "name": "@sourceofficial/neutron-atomic",
   "version": "0.0.11.1",
   "description": "Server Module for Atomic",
   "main": "index.ts",
@@ -18,8 +15,8 @@
   },
   "homepage": "https://github.com/RealSourceOfficial/neutron#readme",
   "dependencies": {
-    "@arlojay-studios/electron-atomic": "^0.0.9",
-    "@arlojay-studios/proton-atomic": "^0.0.8",
+    "@sourceofficial/electron-atomic": "^0.0.9",
+    "@sourceofficial/proton-atomic": "^0.0.8",
     "cookie-parser": "^1.4.6",
     "express": "^4.18.2"
   },

@@ -6,8 +6,8 @@
 
 import type { Application } from 'express';
 import { cookieParser } from 'cookie-parser'
-import { protonDB, protonUUID } from '@arlojay-studios/proton-atomic/'
-import { electron } from '@arlojay-studios/electron-atomic/';
+import { protonDB, protonUUID } from '@sourceofficial/proton-atomic/'
+import { electron } from '@sourceofficial/electron-atomic/';
 
 /**
  * Request Handler
